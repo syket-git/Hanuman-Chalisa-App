@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/tirobangla_regular.ttf",
+      "sha1": "1fa97cafb2b6fe3301ec6f73b2bbafc7f87e3705"
+    },
+    {
+      "path": "assets/fonts/triobangla_italic.ttf",
+      "sha1": "ae41221ad6b5c4d8fc150f0a3d123199cbe5160c"
+    }
+  ]
+}
